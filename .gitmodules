@@ -1,0 +1,3 @@
+[submodule "Source/UnrealInventory"]
+	path = Source/UnrealInventory
+	url = https://github.com/rameezqurashi/UnrealInventory.git
